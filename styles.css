@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background-color: #22007d;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  position: relative;
+}
+
+h1 {
+  margin: 1% 2%;
+  padding: 2%;
+}
+
+h2 {
+  margin: 2%;
+  padding: 2%;
+}
+
+p {
+  margin: 0 10%;
+  text-align: left;
+  text-indent: 2%;
+  color: white;
+
+}
+
+.header {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-size: contain;
+  background-color: #fbe286;
+  position: relative;
+}
+.summary {
+  background-color: #22007d;
+  color: gold;
+  text-align: center;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.characters {
+  background-color: #22007d;
+  text-align: center;
+  color: gold;
+}
+
+
+#title {
+  position: absolute;
+  margin: 0;
+  top: 5%;
+  right: 5%;
+  color: gold;
+  font-size: 5rem;
+}
