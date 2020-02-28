@@ -41,12 +41,14 @@ p {
   text-align: center;
   line-height: 1.5;
   margin: 0;
+  width: 100%
 }
 
 .characters {
   background-color: #22007d;
   text-align: center;
   color: gold;
+  width: 100%
 }
 
 
